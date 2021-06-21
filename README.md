@@ -1,1 +1,1 @@
-# artifactory-publish-task
+# inspect-task
