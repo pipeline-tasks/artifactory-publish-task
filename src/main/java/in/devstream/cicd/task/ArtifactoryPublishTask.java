@@ -26,6 +26,6 @@ public class ArtifactoryPublishTask extends PipelineTask {
 
     @Override
     public void onFinalize() {
-        log.info("Cleaning up resources..");
+        log.info("Cleaning up resources...");
     }
 }
